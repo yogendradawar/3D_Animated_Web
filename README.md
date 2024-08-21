@@ -17,11 +17,32 @@ This project is a 3D animated website featuring smooth, scroll-based animations 
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **Three.js** (or any 3D library you used)
-- **GSAP** (for animations, if applicable)
+<!-- - **Three.js** (or any 3D library you used) -->
+<!-- - **GSAP** (for animations, if applicable) -->
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/3D-animated-website.git
+
+2. Navigate to the project directory:
+    ```bash
+    cd 3D-animated-website
+
+3. Install dependencies:
+    ```bash
+    npm install
+
+4. Run the project locally:
+     ```bash
+    npm start
+
+## Usage
+Open the project in your preferred browser. Use the scroll wheel or trackpad to explore the 3D animations and interact with the various elements throughout the page.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+If you have any questions or feedback, feel free to reach out at yogendradawar6@gmail.com.
