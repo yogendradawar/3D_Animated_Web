@@ -24,7 +24,7 @@ This project is a 3D animated website featuring smooth, scroll-based animations 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3D-animated-website.git
+   git clone https://github.com/yogendradawar/3D-animated-website.git
 
 2. Navigate to the project directory:
     ```bash
